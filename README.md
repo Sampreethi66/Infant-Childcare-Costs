@@ -1,4 +1,4 @@
-Socioeconomic Determinants of Infant Childcare Costs in the U.S.
+# Socioeconomic Determinants of Infant Childcare Costs in the U.S.
 Analyzing panel data to uncover what drives childcare prices across states and time
 
 📘 Overview
